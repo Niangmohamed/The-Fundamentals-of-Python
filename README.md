@@ -1,6 +1,6 @@
 # The fundamentals of Python
 
-**Author: Mohamed NIANG, Staff ML Scientist**
+**Author: Mohamed NIANG, ML Scientist**
 
 ## Presentation
 
