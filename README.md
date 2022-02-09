@@ -1,4 +1,4 @@
-# The fundamentals of Python
+# The Fundamentals of Python
 
 **Author: Mohamed NIANG, ML Scientist**
 
