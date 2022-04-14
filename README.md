@@ -25,3 +25,4 @@ This repository contains notebooks on the fundamentals of Python. The notebooks 
 15. Date manipulation in Python
 16. Datasets analysis without using Pandas in Python
 17. Introduction to generators in Python
+18. OOP in Python
